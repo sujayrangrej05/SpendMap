@@ -73,6 +73,20 @@ Real bank statement export (Jan–Dec 2023). Categories: Food, Misc, Shopping, S
 
 ---
 
+---
+
+## 📊 Results
+<img width="1813" height="450" alt="newplot" src="https://github.com/user-attachments/assets/ea042bc2-9004-41ea-a286-415096a9eb15" />
+<img width="1813" height="450" alt="newplot (1)" src="https://github.com/user-attachments/assets/8df3a987-7e08-4fe3-b4d0-04a77194ca00" />
+<img width="1813" height="450" alt="newplot (3)" src="https://github.com/user-attachments/assets/6c0f8e73-7e0e-4952-a865-6a8146c666cc" />
+<img width="1813" height="450" alt="newplot (4)" src="https://github.com/user-attachments/assets/99e8f1a6-9790-4177-ac74-718d4d2a5239" />
+<img width="1813" height="450" alt="newplot (5)" src="https://github.com/user-attachments/assets/c8ed148c-c0ac-42d9-9103-616790209b98" />
+<img width="1813" height="450" alt="newplot (6)" src="https://github.com/user-attachments/assets/4f16d100-b23d-42a0-a975-7481b2f639e9" />
+<img width="1813" height="450" alt="newplot (7)" src="https://github.com/user-attachments/assets/7a46c7cf-9e98-4686-b9d2-0ae9a3cca4aa" />
+<img width="1813" height="450" alt="newplot (2)" src="https://github.com/user-attachments/assets/54b4c2fc-ce2f-4fcb-adbf-b7242c77d0ed" />
+
+---
+
 ## Stack
 
 `Python` · `Plotly` · `Gradio` · `Pandas` · `NumPy`
