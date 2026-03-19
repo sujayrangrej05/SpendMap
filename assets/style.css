@@ -1,0 +1,92 @@
+/* Dark theme body */
+body {
+    background-color: #0d0f12;
+    color: #d4d9e8;
+    font-family: "IBM Plex Sans", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Card styling */
+.card {
+    background-color: #151820;
+    border: 1px solid #252a35;
+    border-radius: 10px;
+    padding: 16px 20px;
+    margin: 8px;
+}
+
+/* KPI row grid */
+.kpi-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+    margin-bottom: 24px;
+}
+
+/* Section title (uses section() function styling) */
+.section-title {
+    font-size: 10px;
+    font-weight: 500;
+    color: #5a6275;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    border-bottom: 1px solid #252a35;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+}
+
+/* Flex row for charts */
+.flex-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 16px;
+}
+
+/* Adjust graph container height consistency */
+.graph-container {
+    height: 100%;
+    width: 100%;
+}
+
+/* Header animation */
+#header {
+    animation: slideDown 0.8s ease-out;
+}
+
+/* Card hover effect */
+.card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+/* Keyframes for slideDown */
+
+/* Large KPI box styling */
+.kpi-large {
+    font-size: 1.1rem;
+    color: #d4d9e8;
+    background-color: #151820;
+    border: 1px solid #252a35;
+    border-radius: 10px;
+    padding: 12px 16px;
+    margin: 8px 0;
+}
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+.graph-container {
+    height: 100%;
+    width: 100%;
+}

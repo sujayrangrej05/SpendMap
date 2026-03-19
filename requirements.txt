@@ -1,0 +1,4 @@
+plotly>=5.18.0
+gradio>=6.9.0
+pandas>=2.0.0
+numpy>=1.26.0
