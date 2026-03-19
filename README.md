@@ -75,7 +75,7 @@ Real bank statement export (Jan–Dec 2023). Categories: Food, Misc, Shopping, S
 
 ## Stack
 
-`Python` · `Plotly Dash` · `Pandas` · `NumPy`
+`Python` · `Plotly` · `Gradio` · `Pandas` · `NumPy`
 
 ---
 
